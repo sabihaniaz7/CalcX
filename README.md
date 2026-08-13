@@ -1,4 +1,4 @@
-# CalcX
+# CalcX: Calculator & Converter App
 
 An all-in-one offline calculator and converter application built with Flutter, designed for students, engineers, developers, and everyday users. It consolidates mathematical tools, scientific utilities, physics calculators, statistics tools, computer science converters, and unit conversion systems into a single organized platform.
 
