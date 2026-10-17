@@ -1,11 +1,11 @@
 # CalcX: Calculator & Converter App
 
-An all-in-one offline calculator and converter application built with Flutter, designed for students, engineers, developers, and everyday users. It consolidates mathematical tools, scientific utilities, physics calculators, statistics tools, computer science converters, and unit conversion systems into a single organized platform.
+An all-in-one offline calculator and converter application built with Flutter, designed for students, engineers, developers, and everyday users. It consolidates mathematical tools, scientific utilities, physics and chemsitry calculators, statistics tools, computer science converters, and unit conversion systems into a single organized platform.
 
 <div align="center">
   <br>
   <a href="https://play.google.com/store/apps/details?id=com.nexappra.calcx.app">
-    <img src="https://img.shields.io/badge/Google_Play-Get_it_on_Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" height="50" />
+   <img src="https://img.shields.io/badge/Google_Play-Get_it_on_Google_Play-00802B?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" height="50" />
   </a>
   <br><br>
 </div>
@@ -51,49 +51,61 @@ It is designed around a simple principle: users should not need to download mult
 ## Tool Categories
 
 ### Mathematics
-- LCM and HCF Calculator
+- LCM & HCF
 - Matrices
 - Sets
 - Trigonometry
-- Roman and Decimal Converter
-- Percentage Calculator (three modes: X% of Y, X out of Y, percentage change)
+- Permutations (nPr and nCr)
+- Statistics (mean, median, mode, variance, standard deviation)
+- Probability
+- Angle Converter (degrees and radians)
+- Roman Numerals Converter
+- Percentage Calculator
 - Prime Number Checker
 - Equation Solver (linear and quadratic)
-- Fraction Calculator (add, subtract, multiply, divide)
-- Statistics Calculator (mean, median, mode, variance, standard deviation, range)
-- Probability Calculator
-- Permutations & Statistics
-- Ratio
-- Interest
-- Angle Converter(radian and degree)
+- Fraction Calculator
+- Ratio Calculator
+- Simple and Compound Interest Calculator
 
-### Physics
-- Velocity Calculator (find speed, distance, or time)
-- Force Calculator (Newton's second law)
-- Ohm's Law (find voltage, current, or resistance)
-- Energy Calculator (kinetic and potential energy)
-- Motion Equations (SUVAT)
-- Physics Reference Sheet - Formulas, definitions, constants, SI units & dimensions
+### Science
+- Physics Reference - formulas, definitions, SI units, and constants
+- Periodic Table
+- Velocity Calculator (speed, distance, or time)
+- Force Calculator (Newton's laws)
+- Ohm's Law (voltage, current, and resistance)
+- Energy Calculator (kinetic energy, potential energy, and work)
+- Motion Equations
+- Dual Nature (de Broglie wavelength and photon energy)
+- Order of Reaction (concentration and half-life)
+- Quantum Model (quantum numbers, orbitals, and nodes)
+- Schrodinger Equation (particle-in-a-box energy and wavefunction)
+- Molar Mass Calculator
+- Mole Converter (grams, moles, and particles)
+- Molality Calculator
+- Normality Calculator
+- PPB and PPM Concentration Calculators
+- Solution Preparation Calculator
 
 ### Computer Science
 - Base Converter (decimal, binary, octal, hexadecimal)
 - ASCII Converter (character to code and code to character)
-- Data Storage Converter (bit through petabyte)
+- Data Storage Converter (bytes, KB, MB, GB, and TB)
 - Bitwise Calculator (AND, OR, XOR, NOT, bit shifts)
-- Cryptography
-- Mose Converter
+- HEX & RGB Color Converter
+- Morse Code Converter
+- Cryptography (encrypt, decrypt, encode, and decode)
 
 ### General
+- Counter & Stopwatch
+- CGPA Calculator
+- Text Counter & Transform
 - Length Converter
 - Weight Converter
 - Temperature Converter (Celsius, Fahrenheit, Kelvin)
 - Area Converter
 - Speed Converter
-- Periodic Table
 - Age Calculator
-- Text Counter & Transform
-- CGPA Calculator (multi-semester with grade dropdown)
-- BMI Calculator (metric and imperial)
+- BMI Calculator
 
 ### Calculator
 - Standard calculator with expression history
